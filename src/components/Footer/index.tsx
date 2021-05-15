@@ -36,12 +36,6 @@ const Footer: React.FC = () => (
         >
           LinkedIn
         </Styled.Link>
-
-
-        
-        <Styled.Link href="/" rel="noreferrer noopener" target="_blank">
-          Behance
-        </Styled.Link>
       </Styled.Links>
     </Container>
   </Styled.Footer>
