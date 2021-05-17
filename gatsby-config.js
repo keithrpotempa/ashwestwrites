@@ -5,6 +5,22 @@ module.exports = {
     author: `Ashton West`
   },
   plugins: [
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+    {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: [
+          {
+            resolve: 'gatsby-remark-images',
+            options: {
+              maxWidth: 768,
+              linkImagesToOriginal: false
+            }
+          }
+        ]
+      }
+    },
     `gatsby-plugin-typescript`,
     `gatsby-plugin-react-helmet`,
     {
@@ -21,22 +37,6 @@ module.exports = {
         path: `${__dirname}/src/data`
       }
     },
-    {
-      resolve: 'gatsby-transformer-remark',
-      options: {
-        plugins: [
-          {
-            resolve: 'gatsby-remark-images',
-            options: {
-              maxWidth: 768,
-              linkImagesToOriginal: false
-            }
-          }
-        ]
-      }
-    },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

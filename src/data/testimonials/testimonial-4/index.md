@@ -1,6 +1,6 @@
 ---
 category: 'testimonials'
-cover: './testimonial-3.jpg'
+# cover: './testimonial-3.jpg'
 title: 'Porch Student'
 ---
 

@@ -16,10 +16,14 @@ const mainNavItems: MainNavItem[] = [
     title: 'Resume',
     slug: '/resume/'
   },
-  // {
-  //   title: 'Courses',
-  //   slug: '/courses/'
-  // },
+  {
+    title: 'Courses',
+    slug: '/courses/'
+  },
+  {
+    title: 'Blog',
+    slug: '/blog/'
+  },
   // {
   //   title: 'Contact Me',
   //   slug: '/contact/'
