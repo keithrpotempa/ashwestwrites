@@ -27,10 +27,10 @@ const Footer: React.FC = () => (
           rel="noreferrer noopener"
           target="_blank"
         >
-          Twitter
+          Goodreads
         </Styled.Link>
         <Styled.Link
-          href="www.linkedin.com/in/ashwestwrites"
+          href="https://www.linkedin.com/in/ashwestwrites"
           rel="noreferrer noopener"
           target="_blank"
         >
