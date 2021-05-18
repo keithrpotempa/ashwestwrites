@@ -8,6 +8,8 @@ tags: ['course', 'porch', 'speculative']
 published: true
 ---
 
+**Ran Fall 2016**
+
 Speculative Fiction transports its readers deep into the realms of their imagination; on impossible journeys through wondrous ivory cities, treacherous asteroid fields, and the most horrific depths of the cosmos.
 
 While some see the genre as escapist yarns, its power and relevance as an art form cannot be denied; speculative fiction is as ancient as story itself and pervasive in all forms of modern media from the most esoteric intellectual to mass-market pop culture.
