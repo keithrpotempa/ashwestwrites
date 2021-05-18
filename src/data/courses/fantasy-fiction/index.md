@@ -1,8 +1,8 @@
 ---
 category: 'course'
-cover: './cover.jpg'
+cover: './fantasy-fiction.png'
 title: 'Fantasy Fiction'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: "A course about magic, world-building, and the Hero's Journey in fantasy fiction"
 date: '2019-07-01'
 tags: ['course', 'porch', 'fantasy']
 published: true
